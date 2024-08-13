@@ -9,13 +9,25 @@
 
 <img src="../images/PXL_20240813_032933323.jpg" height="800" alt="algae on driftwood" />
 
-Also got KH/GH/CO2 tests to ensure my levels are OK. Also got a product called [Dymax Clear Mix](https://www.aquaticsupplies.com.au/products/dymax-clear-mix-100ml) which can absorb the impurities - have to put it under the fine wool so I'm yet to do that.
+Also got KH/GH/CO2 tests to ensure my levels are OK. Also got a product called [Dymax Clear Mix](https://mydymax.com/products/dymax-clear-mix?_pos=1&_sid=a1a01caa8&_ss=r) which can absorb the impurities - have to put it under the fine wool so I'm yet to do that.
 
 Did a water change (only about 10/15%) and that cleared things up a bit.
 
 The CO2 measure is in the water and looks green enough, I guess I have enough CO2 but I'm thinking of lowering the light a bit more for the plants to benefit from it. We'll see.
 
 <img src="../images/PXL_20240813_032927175.jpg" height="800" alt="CO2 reader" />
+
+All nutrients from plants are from `aquavitro`:
+
+- [propel (Fe)](https://www.aquavitro.com/propel.php)
+- [activate (P)](https://www.aquavitro.com/activate.php)
+- [synthesis (N)](https://www.aquavitro.com/synthesis.php)
+
+Which I fed:
+
+- `Fe` -> 5 mL
+- `P` -> 3 mL
+- `N` -> 3 mL
 
 ## 2024-08-11
 
