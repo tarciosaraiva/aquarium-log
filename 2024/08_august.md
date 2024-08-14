@@ -1,5 +1,19 @@
 # Recordings
 
+## 2024-08-14
+
+Got a new light to complement the other one. I was doing some calculations and looks like I do not have enough lumens: according to [my spreadsheet](https://docs.google.com/spreadsheets/d/1IrqIBygd8MKEA3pOYLY1BDArz8S-sklm/edit?gid=811352064#gid=811352064) I only have enough for a low lit tank. Plus the position of my driftwood doesn't allow me to use my current light in the middle of the tank which is a bummer so my setup now looks like below:
+
+![tank setup]()
+
+I have also measured my levels but quite frankly it's hard: I can't see colors very well and for as much as I trust my family to tell me what color it is I find it hard to constantly monitor and so on.
+
+My CO2 measure is telling me that I either have enough or too much CO2. Even after a 30% water change things are kinda the same so I'm either doing something wrong or maybe the plants are not absorbing as much as needed and I'm ending up with excess CO2.
+
+Hence after dosing it very midly with Fe, P and N I decided to let things run their course. I'll continue to dose during the week and monitor things here and there but nature must run its course.
+
+On the plus side the Dymax product is working and the tannin is cleaning up. I believe I might lose a few plants though but I guess it's the price you pay.
+
 ## 2024-08-13
 
 - Plant leaves started showing some decay and some algae are starting to bloom - plants lack nutrients. Got the following supplements from the fish shop:
@@ -7,7 +21,7 @@
   - Phosphate
   - Nitrogen
 
-<img src="../images/PXL_20240813_032933323.jpg" height="800" alt="algae on driftwood" />
+![algae on driftwood](/images/PXL_20240813_032933323.jpg)
 
 Also got KH/GH/CO2 tests to ensure my levels are OK. Also got a product called [Dymax Clear Mix](https://mydymax.com/products/dymax-clear-mix?_pos=1&_sid=a1a01caa8&_ss=r) which can absorb the impurities - have to put it under the fine wool so I'm yet to do that.
 
@@ -15,7 +29,7 @@ Did a water change (only about 10/15%) and that cleared things up a bit.
 
 The CO2 measure is in the water and looks green enough, I guess I have enough CO2 but I'm thinking of lowering the light a bit more for the plants to benefit from it. We'll see.
 
-<img src="../images/PXL_20240813_032927175.jpg" height="800" alt="CO2 reader" />
+![CO2 reader](/images/PXL_20240813_032927175.jpg)
 
 All nutrients from plants are from `aquavitro`:
 
