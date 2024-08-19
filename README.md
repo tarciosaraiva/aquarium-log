@@ -8,12 +8,16 @@ An account of setting up a new tropical fish tank with external plants, CO2, etc
 - Heater at 27 C
 - Aqua One canister filter with UV
 
-![status as of aug 15th 2024](images/20240815.jpg)
+![current status](images/20240819.jpg)
 
 ## Calculators
 
 - [Dosage calculator](https://docs.google.com/spreadsheets/d/1_vBNEu3wStDuWqnCudZdVtwjAx2mr94I-8yxgz4mpK8/edit?gid=0#gid=0)
 - [Light calculator](https://docs.google.com/spreadsheets/d/1IrqIBygd8MKEA3pOYLY1BDArz8S-sklm/edit?gid=811352064#gid=811352064)
+
+## Diary
+
+- [August 2024](2024/08_august.md)
 
 ## Major learnings so far
 
@@ -24,3 +28,4 @@ An account of setting up a new tropical fish tank with external plants, CO2, etc
   - By aerating the water it helps break the water surface tension thus creating more oxygen and allowing for better gas exchange between water and air.
 - Fertilize your plants straight away. I got the stuff I was recommended by my LFS but am not monitoring as I'm trying to look at **ammonia** and **nitrite** development throughout the cycle. Some plants are suffering a bit but that's OK I don't think they will starve and completely die anymore.
 - Get your lights right: in LEDs the watts don't matter as much so it's important to look at lumens. Getting your info right using the [light calculator](https://docs.google.com/spreadsheets/d/1IrqIBygd8MKEA3pOYLY1BDArz8S-sklm/edit?gid=811352064#gid=811352064) will help you decide how much you need and how far from the substrate you need them.
+- Bio bloom is a thing: go easy on the nutrients and take it slowly. My tank got so dark that's hard to see the back wall.
