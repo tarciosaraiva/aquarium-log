@@ -1,5 +1,27 @@
 # Recordings
 
+## 2024-08-27
+
+Been doing water changes almost daily and the tank looks a lot nicer. I also bought some Java Fern and some large-ish Amazon Swords to consume the extra nutrients in the aquarium column - it seems to be doing the trick!
+
+I reduced the amount of white sand and covered with [Tropica Aquarium Soil Powder](https://tropica.com/en/plant-care/aquarium-soil/aquarium-soil/) - both fine and coarse versions. I like it but not sure how it will turn out yet as it broke my original design and now I'm in no man's land - still I planted some monte carlos (MC) and hope it will spread nicely.
+
+I turned the CO2 and the lights back on, dosing fertilizers very seldomly. Got a phosphate and Fe test kit.
+
+The phosphate test kit is actually quite nice: it's from API but the color is a lot easier to distinguish. I'm color blind and the fact that the whole vial turns an opaque color makes it a lot easier to distinguish against the chart. I'm not sure if the new test kits from API are like that too but it's nice to see that somebody is looking after us color blind people.
+
+I also noticed the the right back section of the tank had basically still water: that's where the filter intake is and I noticed basically zero movement so I put a water pump in there and hooked up a duck bill to get some wider water movement and it seems to be doing the trick.
+
+Finally I got a [little basket from IKEA](https://www.ikea.com/au/en/p/fanggroeda-insert-with-compartments-light-grey-90559526/) which is helping keeping underneath my tank nice and tidy. Plus a few [LED lights (abou 60 lumens each)](https://www.ikea.com/au/en/p/kapplake-led-spotlight-white-20543157/) that connect to USB power: really like those as they allow me to see at night or during dawn/dusk times - quite bright for their size!
+
+## 2024-08-21
+
+Did an 80% water change and it helped with the cloudiness. The plants are actually growing so not all hope is lost but I think I might change the intake position.
+
+The wood I'm using looks great but I think it might be blocking the flow of water into the filter somehow, not allow for all the particles in the water from being absorbed. My tank is rather long and short and maybe that is causing issues... I'll play a bit and see how it goes.
+
+Will likely do a water change again on Saturday or Sunday but for now things are looking OK.
+
 ## 2024-08-19
 
 So I stopped asking questions - and spending money - at my LFS and decided to let things roll. It turns out that my water turned black and almost no light comes in and after asking around in forums - thank you Reddit - it looks like I have a "bio bloom" which is essentially a lack of beneficial bacteria resulting in an imbalance where the bad bacteria simply thrives.

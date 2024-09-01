@@ -14,7 +14,7 @@ An account of setting up a new tropical fish tank with external plants, CO2, etc
 - Added an air stone
 - Stopped dosing
 
-![current status](images/20240819.jpg)
+![current status](images/20240901.jpg)
 
 ## Calculators
 
@@ -24,6 +24,7 @@ An account of setting up a new tropical fish tank with external plants, CO2, etc
 ## Diary
 
 - [August 2024](2024/08_august.md)
+- [September 2024](2024/09_september.md)
 
 ## Major learnings so far
 
